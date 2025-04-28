@@ -1,0 +1,2 @@
+- run npm i to install node modules
+- Initiate the project using npm start
